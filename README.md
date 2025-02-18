@@ -1,2 +1,2 @@
 # Netflix-Clone
-A full-featured Netflix clone built using [css &amp; html].
+A full-featured Netflix clone built using [css & html].
